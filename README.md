@@ -30,4 +30,7 @@
 https://sps.northwestern.edu/
 
 2. NLP (Medium):
-https://towardsdatascience.com/natural-language-processing-a1496244c15c.
+https://towardsdatascience.com/natural-language-processing-a1496244c15c
+
+3. NLTK:
+https://www.nltk.org/book/ch00.html
