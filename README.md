@@ -4,14 +4,13 @@
 <img src="Images/neptune.jpg" align="center" width="200px"/>
 <br clear="center"/>
 
-<img src="Images/results.png" align="right" width="450px"/>
 
 #
 
 >### Overview: 
 >> This script will *leverage* NEWSAPI SDK & *evaluate* sentiment analysis on the Crypto Market
 
->> *With a focus on the NLTK library*.
+>> *Leveraging the open-source NLTK library*.
 
 <img src="Images/NLP.jfif" align="right" width="300px"/>
 <br clear="center"/>
@@ -29,4 +28,3 @@ https://sps.northwestern.edu/
 
 2. NLP (Medium):
 https://towardsdatascience.com/natural-language-processing-a1496244c15c.
-
