@@ -26,11 +26,8 @@
 <br clear="center"/>
 
 ## Resources:
-1. Northwestern NPS:
-https://sps.northwestern.edu/
-
-2. NLP (Medium):
+1. NLP (Medium):
 https://towardsdatascience.com/natural-language-processing-a1496244c15c
 
-3. NLTK:
+2. NLTK:
 https://www.nltk.org/book/ch00.html
