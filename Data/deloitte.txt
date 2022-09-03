@@ -1,0 +1,217 @@
+Stay ahead of the game with Analytics
+ 
+Driven by market dynamics, many organ  izations are undertaking major business transformation programs with the primary goal of staying ahead in their rapidly chang  ing business. These transformations will only be successful if the end-to end business processes are changed. Processes need to become more agile, better, more intelligent and smarter.
+With a clear and transparent picture of how your current end-to-end processes work, process mining and artificial intelligence will provide significant improvements to har  monize and streamline future processes. Thereby, industry-specific process models and process specific KPls are leveraged as the foundation of a Kinetic Enterprisel which represents the core of each digital transformation.
+The key to a Kinetic Enterprise is harnessing the power of data through Analytics and deriving actionable insights out of them. Organizations use Analytics to drive decision making and to understand their businesses, markets, and customers in the best possible way. Subsequently, market leaders leverage Analytics comprehensively and use its power to surpass their compet  itors.
+Organizations use Analytics to drive
+decision-making and to understand their businesses, markets, and customers in the best possible way.
+ 
+Why Analytics first ?
+Very often, organizations implement	analytics. With Deloitte's Analytics first	Maximize human potential through intelligent
+analytical solutions after the digital trans 	approach, organizations achieve process 	technologies and embrace the future of work
+formation of its ERP platform is completed.	improvements, platform modernization	with artificial intelligence.
+This results in long implementation time-	and early deployment of analytics solu 	
+lines and late realization of benefits from	tions.	
+Fig. 1 - Analytics first: Stay ahead of the game with Analytics- using the Power of
+Analytics and deriving actionably insights out of them
+Outcomes
+Early Realization of
+Analytics Benefits
+KPI Driven Business
+Process
+Data driven process improvements and insights
+Future proof Analytics
+Roadmap and Platform
+Optimized Analytics Design (Top-down approach)
+Foundation for
+Embedded Analytics
+Very often, organizations implement analytical solutions after the digital transformation of its ERR platform is completed.
+With Analytics first, organizations achieve process improvements, platform modernization and early deployment of analytics solutions.
+ 
+Analytics first links KRIS to organization's	Modern technology helps to focus on	Early definition and
+processes and provides early insights into	prescribing future courses of action rather	
+future steering of the enterprise. Create insight strategy with KPI Analytics to	than performing reactive analyses of historical data to explain past performance.	alignment of future
+provide faster and richer insights for the management to understand the recent	The technical landscape has changed over the past few years, with some platforms	KPl-framework to
+performance and make decisions to change its direction quickly and decisively.	growing in popularity while others have lost users. A modern Intelligent Data &	steer the company
+Optimizing and streamlining the end-to 	Analytics Platform applies technologies like Machine learning and Al, process mining	with the support
+end processes during a S/4 transformation with analytical capabilities requires the	and RPA and use the advantages of the Cloud.	of our business
+right use cases, right technology and right skills within the organization to create datadriven insights with Process Intelligence.		consulting team.
+Fig. 2 - Analytics first: Gain advantage with faster insights - the key to become a Kinetic Enterprise is to leverage the power of data and utilize the full potential of Analytics
+
+•	Analytics use cases based on Cloud technology like S/4 Cloud, DWC and pre-defined data models
+•	Process analytics: Process mining (e.g. Celonis, SAP BPI ) Process automation (e.g. iRPA), Artificial intelligence
+ 
+Alignment with S/4HANA standard and showcase-proven analytics An important success factor is thereby the early alignment with business stakeholders by demonstrating existing and new analy  tical use cases based on the new analytical foundation. This drives the buy-in from business and supports the change in an organization's digital transformation.
+•	Early definition and alignment of future KPl-framework to steer the company with the support of our business consulting team
+•	Alignment with S/4 standard and show  case proven analytics with dashboards, power of S/4HANA embedded analytics, process mining and process automation
+•	Run senior stakeholder alignment sessions and demonstrate the "art of possible" in terms of analytics.
+•	Direct insights from first day ofthe  go—live
+For organizations going through an SAP S4/HANA journey, the Analytics first approach helps to setup a modern plat  form and to define relevant KPls for each ofthe business processes. The Analytics first phases go along with those of typical SAP S/4HANA transformations. By doing so, the benefits from analytics can be realized much earlier than expected.
+These are the significant value drivers	• Deloitte's proven assets and showcases
+that motivate the adoption of the Analytics first approach	allow a MVP within first 90 days
+• Lay the groundwork for S/4HANA trans-
+• Include Analytics early on in the project to streamline and harmonize the end-to-	formations
+end processes and measure the business	• Enable flexibility and faster data con-
+process KPls and rolling up to the key	sumption to respond rapidly to new
+value drivers	business requirements
+• Build a foundation for an Intelligent Data	• Give users modern analytical applica   
+& Analytics Platform enabling advanced	tions with self-service capabilities, that
+analytics capabilities (e.g. emphasis on having deeper understanding of the	will boosts productivity
+business and identifying the future	• Accelerate insights that generate effi 
+trends with predictive analytics, machine learning and artificial intelligence,	ciencies, cost savings, and growth
+utilize new ways of process mining and	This results in lower risk and faster
+business process intelligence to analyze	project-timeline and lower project costs
+business processes end-to-end processes automation via robotics, IOT	overall with the "Analytics first" approach.
+use cases - streaming of data not only	To accomplish these goals, the Analytics
+enterprise systems but also from ma-	 	first follows a structured approach. In the
+chines, web feeds and other non-con 	below sections Deloitte's Analytics first
+ventional data sources)	approach is presented and it is described how it is different from the traditional approach.
+Run senior stakeholder alignment sessions and demonstrate the "art of possible" in terms of analytics.
+Direct insights from first day of the S/4HANA go-live.
+ 
+Analytics first  KPI Analytics
+ 
+At the beginning of a digital journey (e.g. SAP S/4HANA Digital Core) the innovations of Analytics first are available to demon  strate ready-to-deploy, analytical solutions for various, day-to-day business require  ments. Deloitte has several assets, which were developed based on project experience in numerous, international projects.
+The KPI Value Map
+Key Performance Indicators (KPI) measure a company's success versus a set of targets, objectives, or industry peers. KRIS can be financial (including net profit revenues minus expenses, or the current ratio) or non-financial measuring foot traffic in a store, employee retention, repeat  customers, and quality of customer experience, among others. The KPI Value MAP is Deloitte's industry specific catalogue of top level and operational K?l's which are interlinked to each other.
+The Value Map is the reference for compa  nies to compare or enhance their own KRI structures and are the basis for the future  steering model.
+The KPI Fact Sheet
+A collection of business questions per  end-to-end processes, relevant KRIS and  process indicators are part ofthe asset based Analytics first approach. The KRI Fact sheet represents the collection of relevant business questions and KPI definition and is used as the basis for the KRI catalogue.
+The KPI Catalogue
+The KPI catalogue contains the functional definitions, technical documentation and comprehensive descriptions of KPls and associated metrics. This consists of both technical information such as how a KPI is measured, and information on the significance of the KPI for your enterprise. The  KPI catalog is thereby the central point of reference for all ofthe business-relevant key figures in the organization.
+End-to-end processes By integrating end-to-end processes, organizations can become more agile, allowing them to better meet high-level business objectives, streamline processes, and make rapid business decisions. By revealing duplicative efforts, end-to-end processes can improve both the speed and quality of business process execution, as well as decreasing overall operational costs. The ability to respond to change, get to market quickly, and reduce costs is the mantra of business leaders worldwide. By managing end-to-end processes and taking a global view of process ownership, companies can unlock savings, increase performance, lower costs, and gain more meaningful business insights. Companies today are looking for a cloud solution that provides integrated end-to-end business process coverage along with continuous innovation and self-service intelligence.
+ 
+Fig. 3- End-to-end processes overview
+O
+Customer	
+Sales	
+Fulfilment	
+Production	
+Logistics	
+Finance/
+Controlling
+		Order to Cash
+Sales order to receivables		
+ 	
+Procure to Pay
+Direct/indirect an imported procure to pay
+
+	
+Manufacturing
+Production and Plant Maintenance
+	 
+	
+Supply
+Maintenance/Production/Quality
+	
+	 	
+Logistics planning/intercompany transfers/
+Trans ortation
+	
+Record to Report
+Treasury/Project & Asset Lifecycle/General Cost Accounting and Closing
+ 
+For the majority of the end-to-end pro cesses, Deloitte has preconfigured libraries of analytical use cases linked to the business questions per process and utilizes the power of analytics to tackle the related business problem. Analytical applications and industry specific data models are part of our asset based Analytics first approach. Streamlining the order to cash process, prediction of liquidity, analyzing buying behavior and optimizing supply chains are examples of proven possible efficiencies throughout an organization's end-to-end processes.
+ 
+Fig . 4- Pre-configured Analytical Solutions for selected end-to-end processes
+
+Order to Cash
+Sales order to receivables		Procure to Pay
+Direct/ indirect
+	
+Manufacturing
+
+Sales Overview	Right First Time		PO, Contracts Overview	Supplier Scorecard		Manufacturing Efficiency	Maintenance Planning
+ 
+Sales Overview and
+Right First Time
+•	Pre-Configured solutions in S/4HANA and SAC to optimize the Lead to Cash processes
+Map your business process KPls against • the KPI Library
+•	Customize the KPls to the industry specifics
+•	Example 1: sales overview (L3) provides transparency of the sales orders in real time
+Example 2: right first time (L2) analyze the order to cash process and improve the data quality to close the sales orders faster
+Purchase Order Overview and
+Spend Management
+•	Pre-Configured solutions in S/4HANA and SAC to effectively manage the Purchase orders and spend KPls
+•	Identify open invoices and analyze the root cause
+•	End-to-end visibility on the spend management (supplier scorecards, supplier rating)
+•	Example 1: Purchase Order Overview (L3) provides the transparency in real time
+•	Example 2: Supplier Scorecard (L2) analyze the spend management to trace spend accrorss the organization by combining data from multiple sources (ariba)
+Effective manufacturing to meet supply demand
+•	Pre-Configured solutions in S/4HANA and SAC for manufacturing planning process in real time
+•	Plant maintenance and equipment effectiveness tracing in real time
+•	Example 1 : Manufacturing Planner (L3) rela time application to plan the manufacturing according to the supply demand
+•	Example 2: OTIF-OEE (L2) end-to-end visibility on the equipment effectiveness, supply/ customer view production : loss and on time in full to meet the demand/supply
+ 
+Operational Reporting With real-time information directly from the SAP landscape the business can immediately review the embedded KPls and understand relevant information that's associated with daily business processes. To demonstrate the ease of use applica  tions for filtering, layout, graphs, navigation, and other information to enforce the UX  consistency to improve end user adoption.
+Enterprise Reporting
+Enterprise Reporting combines all analytics for business intelligence (81), planning, and predictive capabilities on one cloud native solution. Planning and analysis capabilities in SAP Analytics Cloud are directly embedded in SAP S/4HANA Cloud. This enables organizations to plan, execute, and analyze using one financial management system to align operational plans with financial results and break free from stand-alone spreadsheets or disconnected planning only tools Com  bining on-premise and cloud analytics into a hybrid solution that leverages the strengths of both platforms.
+These analytical use cases allow business to access all business relevant KPls in real time and provide the user a consistent and fast way to analyze operational and management information across several dimensions. Deloitte has already used this successfully many times before carrying out comprehensive transformations in the direction of a Kinetic Enterprise. In this con  text the benefits of Analytics have been proven successfully and groundbreaking accents for upcoming organizational redesigns through data-driven insights have been created. Analytics first can also serve your organization well as an "enabler" of digitization and lift shared services or finance and controlling departments to a new level in their daily work at an early stage.
+When designing and implementing stand ardized business processes (e.g. orderto-cash, procure-to-pay), it is essential to identify and define the underlying control and monitoring mechanisms right from the start. Deloitte contributes a comprehensive catalog of industry-specific control and steering parameters (KPls) to every digital transformation. These can be directly inte  grated into ongoing SAP S/4HANA imple  mentations via predefined models. Your advantage, direct use of proven control models that are based on and intelligently complement the SAP standard.
+Planning and analysis capabilities in SAP Analytics Cloud are directly embedded in SAP S/4HANA cloud.
+ 
+first  
+Process Intelligence
+ 
+The identified potentials for process improvements by Analytics first will help to enable the benfits of a Kinetic Enterprise and provide early insights into the future-steering of an organization. Only when end-to-end processes like Order-toCash, Procure-to Pay processes become more agile, intelligent and smarter, the digital transformation will be a success.
+Many companies use tools like Aris and Signavio for documenting their processes in a consistent and transparent way. Process mining and artificial intelligence will help to improve significantly these pro  cesses fact-based to harmonize, streamline and accelerate future processes.
+For that reason, Deloitte has a transparent step by-step approach using data driven process analytics to identify process diversities and artifacts. As part of Analyt  ics first, our Global Process Library (IPS) provide a collection of best practices of industry processes on detailed level. In addition process KPI benchmarks for a specific industry provide a transparent and fact based view of existing process artefacts and process deviations. A key component is the continuous optimization of business processes with Business Process Intelligence (BPI) and tools for Process documentation.
+The identification of automation potentials (Robotic Process Automation RPA) within SAP or outside SAP provide immediate and tangible benefits to business. On this account, an automated and integrated testing approach ensures the quality of the provided insights. Within Analytics first, Deloitte leverages Process Analytics also for continuous conformance checking during process reviews.
+Based on this, data-driven analyses of the processes are execute to gain insights  and drive actions to improve the business processes. The detailed process knowledge of the end-to-end processes, the different industry blueprints, the tools and assets which can be applied for process mining and artificial intelligence is in the DNA of Deloitte's consultants.
+ 
+first - Intelligent Data & Analytics Platform
+The Intelligent Data & Analytics Platform	Fig. 5 - Intelligent Data & Analytics Platform to accelerate Analytics first
+IS a pre-packaged accelerator enabling Deloitte's Analytics first approach, pro  viding clients quick wins through our best practices for Embedded and Strategic Analytics based on SAP Technology.
+The Intelligent Data and Analytics Platform allows Organizations to generate Value from S/4HANA sooner end create tangible and data-driven insights right from the beginning of the trenformation journey.
+Fig. 6 —Intelligent Data & Analytics Platform: using the Power of Analytics and deriving actionably insights out of them
+
+ 
+first
+Insights faster than 
+Deloitte's Analytics first approach enables	Prepare Phase	Run Phase
+organizations to transform data into	• Review client specific business models	• Provide continuous process conformance
+realtime insights without transforming the	and industry specifics	checking and identify process deviations
+entire landscape from the very beginning.
+ 	• Review reference content to identify	in real time
+Organizations going through an SAP	areas to focus on in initial client conver-	
+S/4HANA implementation should consider	sations	Business processes becomes the founda 
+implementing analytics and reporting	• Analyze industry-specific business	tion for subsequent project deliverables
+right from the beginning oftheir digital	processes based on Deloitte Industry	including; configuration, custom develop 
+transformation. Analytics first enables	Blueprint (l PS)	ment, security profiles, training, change
+organizations to transform data into real 	• Get quickly up to speed with system	management, communication and testing.
+time insights right from the start ofthe	access and hands on examples	• Translate business goals, objectives and
+transformation journey.	• Enable Process Mining and define KRIS for specific processes	requirements into action
+With our expertise in analytics, business		• Develop and communicate a detailed
+transformation, and SAP technology		roadmap for how work will be done
+enablement, Deloitte assists organizations	Explore Phase	• Provide the foundation for parallel and
+along all phases of the Analytics first	• Demonstrate predefined analytics solu 	future project activities, like continuous
+approach.	tions to clients and focus on key topics	improvement
+Taking the Analytics first approach allows	• Advice clients with Deloitte point-of-view	• Identify in-scope processes
+your organization to lead with insights and	on questions based on leading practices	• Apply industry leading practices and
+accelerate the transformation ofyour busi-		identify improvement opportunities 
+ness. Setting up new capabilities, however,	Realize Phase:	
+requires a diverse mix of business and	• Leverage existing best-practice models	• Identify and resolve gaps between
+technology skills - from strategic to tactical.	and front-end developments as starting	requirements and the best practice
+Analytics first enables your organization	point for analytics developments	processes
+to be successful and competitive in the	• Use industry reference process models	
+market with Analytics capabilities and	• Use harmonized naming conventions to	
+fast-tracks the business transformation. It	develop conform to Deloitte's develop 	
+covers all aspects starting from strategy to execution. Our concept contains three distinctive phases.	ment standards	
+ 
+first
+Benefits
+Stakeholders of S/4HANA implementation projects appreciate the potential and ben  efits of Analytics first. Organizations can deliver value sooner and make the effect of transformation efforts more tangible. The key bottom-line benefits are 
+•	Reduce the S/4 transformation timeline and reduce the overall project risk
+•	Early Business Buy in and GLevel alignment
+•	Empower the workforce with modern analytics tools and interactive user interface to increase their productivity and decision-making abilities.
+•	Accelerate insights that can generate efficiencies, cost savings and growth while mitigating potential risks. Significant fact based process improvements
+•	Providing in build process analytics and reduce the number of reports in a Business Intelligence tool, reduction of the separate Business Intelligence Layer
+•	Support the current and future analytics use cases with a modern analytics foun dation. Reduce user testing and  
+What you can expect from us
+If building an insight-driven advantage is a priority for your organization, we should talk. Deloitte brings extensive skills, know  ledge, and industry-specific experience that can help you enable an Analytics first approach to accelerate business results.
+•	Establish and link measurable KRIS with new business processes.
+•	Accelerate insights that can generate efficiencies, cost savings and growth while mitigating potential risks.
+•	Support the current and future Analytics use cases with a modern Analytics foun   dation.
+•	Empower the workforce with modern Analytics tools and interactive user in  terface to increase their productivity and decision-making abilities.
+•	Reduce user testing and training efforts by going simultaneously live of SAP S/4HANA and the "Intelligent Data &
+Analytics Platform"
